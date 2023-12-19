@@ -1,6 +1,14 @@
+html{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 body{
-    margin: 0;
-    height: 100vh;
+    margin-left: 20px;
+    margin-right: 5px;
+    width: 845px;
+    height: 1830px;
 }
 
 
@@ -29,3 +37,10 @@ body{
 .address div span{
     font-weight: bolder;
 }
+.toaddress h3{
+    margin-bottom: 0;
+}
+.toaddress h3,p{
+  line-height: 23px;
+}
+
