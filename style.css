@@ -48,3 +48,16 @@ body{
     font-size: 18px;
 }
 
+.description{
+    margin-top: 10px;
+}
+.description span{
+    text-decoration: underline;
+    
+}
+.description ol li{
+   margin-top: 10px;
+}
+.description .paddingdesc{
+  padding-left: 30px;
+}
