@@ -1,10 +1,10 @@
-html{
+html {
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-body{
+body {
     margin-left: 20px;
     margin-right: 5px;
     width: 845px;
@@ -12,52 +12,65 @@ body{
 }
 
 
-.address{
+.address {
     text-align: right;
     margin-right: 20px;
     font-style: italic;
-   
+
     font-size: 60;
 
 }
 
-.address h3 ,div ,p{
+.address h3,
+div,
+p {
     margin: 0;
 }
 
-.address div p{
+.address div p {
     line-height: 25px;
 }
 
-.address div .date{
+.address div .date {
     line-height: 0;
     margin-top: 28px;
     font-style: none;
 }
-.address div span{
+
+.address div span {
     font-weight: bolder;
 }
-.toaddress h3{
+
+.toaddress h3 {
     margin-bottom: 0;
 }
-.toaddress h3,p{
-  line-height: 23px;
+
+.toaddress h3,
+p {
+    line-height: 23px;
 }
 
-.deartext{
+.deartext {
     font-size: 18px;
 }
 
-.description{
+.description {
     margin-top: 10px;
 }
-.description span{
+
+.description span {
     text-decoration: underline;
-    
+
 }
-.description ol li{
-   margin-top: 10px;
+
+.description ol li {
+    margin-top: 10px;
 }
-.description .paddingdesc{
-  padding-left: 30px;
+
+.description .paddingdesc {
+    padding-left: 30px;
+}
+
+.endofletter p {
+    margin-top: 10px;
 }
